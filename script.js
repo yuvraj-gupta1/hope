@@ -14,7 +14,7 @@ const noGifURL = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXp5d2RkMjB2
                  // "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhreGkwZHZjcm80czU5Nnd1b2hxYW5uZXZzd3V2YTd1Zmh6a2N3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I1nwVpCaB4k36/giphy.gif",
                  // "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG15eG1kNWw3dnViajE1MjN5cTVkNzkwdmF4OWRvZndqcXBxa2tvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9JLQKmspQAMWQ/giphy.gif"]; // Your "no" GIF URL
 const yesGifURL = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhyeGtyaGd1MmN6eHJxZHVpeWd5MHkycGpqdjdlNWF6dWRwcGtiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zINs6k7lwfawSbLOIc/giphy.gif"; // Your "yes" GIF URL
-const initialGifURL = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2d2emVyZGNxcnBlcDlhZmticnp2aW1vcDV2d2hucHB4dWxmejNnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fxU6WfJ8eembhmZBC6/giphy.gif"; // Your initial GIF URL
+const initialGifURL = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVhN3MycnNsZ3l6aXczYXNuY2VuaXVnZmk0azJrcGtoNHE2ZW54MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RLG2ZFo3yBMHYXC36F/giphy.gif"; // Your initial GIF URL
 
 gif.src = initialGifURL; // Set initial GIF
 
